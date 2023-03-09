@@ -1,6 +1,6 @@
 ﻿
 
-    internal class conversaoTemperatura
+    internal class Program
     {
 
         internal class Program
